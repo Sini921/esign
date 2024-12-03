@@ -4,6 +4,54 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "Filza",
+            "bundleIdentifier": "com.tigisoftware.Filza",
+            "developerName": "TIGI Software",
+            "version": "4.0",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 1.0\n\n- 文件管理器\n- 巨魔破解版\n- 此为无url版\n- 如果仅巨魔未越狱也被检测到越狱，可安装此版本",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/FilzaNourl_4.0.ipa",
+            "localizedDescription": "filza",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/filza.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 14692097,
+            "type": 1
+        },
+
+        {
+            "name": "Filza",
+            "bundleIdentifier": "com.tigisoftware.Filza",
+            "developerName": "TIGI Software",
+            "version": "4.0",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 1.0\n\n- 文件管理器\n- 巨魔破解版",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Filza_4.0.ipa",
+            "localizedDescription": "filza",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/filza.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 14692097,
+            "type": 1
+        },
+
+        {
+            "name": "Santander",
+            "bundleIdentifier": "com.serena.santanderfm",
+            "developerName": "Serena",
+            "version": "1.0",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 1.0\n\n- 文件管理器\n- 可修改assets.car文件",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Santander_1.0.tipa",
+            "localizedDescription": "Santander",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/santanderfm.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 528720,
+            "type": 1
+        },
+
+        {
             "name": "SFSymbols",
             "bundleIdentifier": "com.82flex.SFSymbolsPreview",
             "developerName": "82flex",
@@ -25,7 +73,7 @@
             "developerName": "huami",
             "version": "2.7.11",
             "versionDate": "2024-12-03",
-            "versionDescription": "版本: 2.7.11\n\n-trollfools巨魔注入插件huami修改版\n- 此版本可注入deb",
+            "versionDescription": "版本: 2.7.11\n\n- trollfools巨魔注入插件huami修改版\n- 此版本可注入deb",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.7.11.huami.tipa",
             "localizedDescription": "巨魔注入",
             "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools_huami.png",
