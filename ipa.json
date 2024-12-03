@@ -4,14 +4,46 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "Dopamine",
+            "bundleIdentifier": "com.opa334.Dopamine",
+            "developerName": "opa334",
+            "version": "2.2.2",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 2.2.2\n\n- 完整越狱工具(rootless)\n-\n支持的系统\n- (A8～A11)15.0～16.6.1\n- (A12～A14)15.0～16.5.1\n- (A15～A16)15.0～16.5",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Dopamine_2.2.2.ipa",
+            "localizedDescription": "dopamine",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/dopamine.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 49690378,
+            "type": 1
+        },
+
+        {
+            "name": "Dopamine(M哥修改版)",
+            "bundleIdentifier": "com.wwg135.Dopamine",
+            "developerName": "wwg135",
+            "version": "2.2.2",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 2.2.2\n\n- 完整越狱工具(rootless)\n-\n支持的系统\n- (A8～A11)15.0～16.6.1\n- (A12～A14)15.0～16.5.1\n- (A15～A16)15.0～16.5\n\n- 此版本可挂载系统目录，越狱时自动挂载",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Dopamine_wwg135_2.2.2.ipa",
+            "localizedDescription": "dopamine",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/dopamine.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 53291776,
+            "type": 1
+        },
+
+        {
             "name": "Dopamine(真皮修改版)",
             "bundleIdentifier": "com.zqbb.Dopamine",
             "developerName": "zqbb",
             "version": "2.2.2",
             "versionDate": "2024-12-03",
-            "versionDescription": "版本: 2.2.2\n\n- 完整越狱工具(rootless)\n支持的系统\n- (A8～A11)15.0～16.6.1\n- (A12～A14)15.0～16.5.1\n- (A15～A16)15.0～16.5\n-\n- 此版本可挂载系统目录，越狱时自动挂载",
+            "versionDescription": "版本: 2.2.2\n\n- 完整越狱工具(rootless)\n-\n支持的系统\n- (A8～A11)15.0～16.6.1\n- (A12～A14)15.0～16.5.1\n- (A15～A16)15.0～16.5\n\n- 此版本可挂载系统目录，越狱时自动挂载",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Dopamine_zp_2.2.2.tipa",
-            "localizedDescription": "pocket",
+            "localizedDescription": "dopamine",
             "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/dopaminezp.png",
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
