@@ -1,7 +1,7 @@
 {
     "name": "- 季伯之家",
     "identifier": "com.sini921.ipa",
-    "sourceURL": "https://github.com/Sini921/AltStore/raw/refs/heads/main/ipa.json",
+    "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
             "name": "电池助手",
@@ -9,10 +9,10 @@
             "developerName": "xybp888",
             "version": "1.0.7",
             "versionDate": "2024-12-03",
-            "versionDescription": "测试\n\n测试\n- 测试\n- 测试\n\n测试",
-            "downloadURL": "https://github.com/Sini921/iPAStore/releases/download/0.0.1/batteryinfolist_1.0.7.ipa",
-            "localizedDescription": "测试项目\n\n测试项目",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/iPAStore/refs/heads/main/icon/batteryinfolist.png",
+            "versionDescription": "版本: 1.0.7",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/batteryinfolist_1.0.7.ipa",
+            "localizedDescription": "电池助手",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/batteryinfolist.png",
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 57600,
