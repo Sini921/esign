@@ -4,12 +4,28 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "SFSymbols",
+            "bundleIdentifier": "com.82flex.SFSymbolsPreview",
+            "developerName": "82flex",
+            "version": "51.1",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 2.7.11\n\n- Apple的SF符号\n- 开发者需要这个",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/SFSymbols_51.1.tipa",
+            "localizedDescription": "巨魔注入",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/SFSymbolsPreview.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 996147,
+            "type": 1
+        },
+
+        {
             "name": "TrollFools",
             "bundleIdentifier": "com.huami.TrollFools",
             "developerName": "huami",
             "version": "2.7.11",
             "versionDate": "2024-12-03",
-            "versionDescription": "trollfools巨魔注入插件huami修改版\n- 此版本可注入deb",
+            "versionDescription": "版本: 2.7.11\n\n-trollfools巨魔注入插件huami修改版\n- 此版本可注入deb",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.7.11.huami.tipa",
             "localizedDescription": "巨魔注入",
             "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools_huami.png",
@@ -25,7 +41,7 @@
             "developerName": "xybp888",
             "version": "1.0.7",
             "versionDate": "2024-12-03",
-            "versionDescription": "这个源主很懒\n- 懒得写介绍",
+            "versionDescription": "版本: 1.0.7\n\n- 这个源主很懒\n- 懒得写介绍",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/batteryinfolist_1.0.7.ipa",
             "localizedDescription": "电池助手",
             "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/batteryinfolist.png",
