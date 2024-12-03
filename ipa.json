@@ -4,6 +4,22 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "RingTonesManager",
+            "bundleIdentifier": "com.netskao.ringtonesmanager",
+            "developerName": "Netskao",
+            "version": "1.1-4",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 1.1-4\n\n- 自定义系统来电铃声",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/RingTonesManager_1.1-4.ipa",
+            "localizedDescription": "ringtonesmanager",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/ringtonesmanager.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 6998016,
+            "type": 1
+        },
+
+        {
             "name": "虚拟定位",
             "bundleIdentifier": "com.mika.LocationSimulation",
             "developerName": "mika",
