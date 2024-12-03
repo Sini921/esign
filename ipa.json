@@ -4,6 +4,38 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "Pocket",
+            "bundleIdentifier": "com.simplycode.PostBox-Pocket",
+            "developerName": "PostBox",
+            "version": "0.8.1",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 0.8.1\n\n- 可添加越狱源，直接下载越狱插件",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Pocket_0.8.1.ipa",
+            "localizedDescription": "pocket",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/pocket.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 6678732,
+            "type": 1
+        },
+
+        {
+            "name": "StatusMagic",
+            "bundleIdentifier": "com.avangelista.StatusMagic",
+            "developerName": "avangelista",
+            "version": "1.0.2",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 1.0.2\n\n- 巨魔版状态栏\n- 可修改左上角运营商\n- 隐藏一些功能等",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/StatusMagic_1.0.2.tipa",
+            "localizedDescription": "StatusMagic",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/StatusMagic.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 817889,
+            "type": 1
+        },
+
+        {
             "name": "AppDump2",
             "bundleIdentifier": "cn.gblw.AppsDump",
             "developerName": "gblw",
