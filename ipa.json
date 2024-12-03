@@ -4,6 +4,38 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "ResolutionSetter",
+            "bundleIdentifier": "com.michael.resolutionsetter",
+            "developerName": "Micheal",
+            "version": "1.3.0",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 1.3.0\n\n- 修改分辨率\n- 不要乱改，自行搜索其他机型的分辨率在改\n- 重启即恢复原分辨率",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/ResolutionSetter_1.3.0.tipa",
+            "localizedDescription": "resolutionsetter",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/resolutionsetter.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 450560,
+            "type": 1
+        },
+
+        {
+            "name": "TrollSpeed",
+            "bundleIdentifier": "ch.xxtou.hudapp",
+            "developerName": "82flex",
+            "version": "1.12.1",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 1.12.1\n\n- 巨魔网速\n- 顶部显示实时网速",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollSpeed_1.12.1.tipa",
+            "localizedDescription": "trollspeed",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollspeed.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 450560,
+            "type": 1
+        },
+
+        {
             "name": "Dopamine",
             "bundleIdentifier": "com.opa334.Dopamine",
             "developerName": "opa334",
