@@ -4,7 +4,71 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
-            "name": "Filza",
+            "name": "AppDump2",
+            "bundleIdentifier": "cn.gblw.AppsDump",
+            "developerName": "gblw",
+            "version": "2.0.7-1",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 2.0.7-1\n\n- 巨魔砸壳\n- 应用路径跳转\n- 虚拟定位等",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/AppDump2_2.0.7-1.tipa",
+            "localizedDescription": "appdump2",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/appdump2.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 4194304,
+            "type": 1
+        },
+
+        {
+            "name": "Helium",
+            "bundleIdentifier": "com.leemin.helium",
+            "developerName": "Leemin",
+            "version": "3.2.6",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 3.2.6\n\n- 巨魔版状态栏美化\n- 功能太多懒得介绍，自己装了研究",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Helium_3.2.6.tipa",
+            "localizedDescription": "helium",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/helium.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 985661,
+            "type": 1
+        },
+
+        {
+            "name": "DowngradeApp",
+            "bundleIdentifier": "com.netskao.downgradeapp",
+            "developerName": "Netskao",
+            "version": "1.1-9",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 1.1-9\n\n- 应用升降级(仅支持AppStore中安装的应用)\n- 快速切换AppStore内登陆过的历史账号",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/DowngradeApp_1.1-9.tipa",
+            "localizedDescription": "downgradeapp",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/downgradeapp.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 545259,
+            "type": 1
+        },
+
+        {
+            "name": "DumpDecrypter",
+            "bundleIdentifier": "com.netskao.dumpdecrypter",
+            "developerName": "Netskao",
+            "version": "1.5-1",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 1.5-1\n\n- 巨魔版全权限砸壳",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/DumpDecrypter_1.5-1.tipa",
+            "localizedDescription": "dumpdecrypter",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/dumpdecrypter.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 503316,
+            "type": 1
+        },
+
+        {
+            "name": "FilzaNourl",
             "bundleIdentifier": "com.tigisoftware.Filza",
             "developerName": "TIGI Software",
             "version": "4.0",
