@@ -10,7 +10,7 @@
             "version": "1.0",
             "versionDate": "2024-12-04",
             "versionDescription": "版本: 1.0\n\n- 指南针官替，此版本有海拔和经纬度",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/com.apple.compass",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/compass_1.0.ipa",
             "localizedDescription": "compass",
             "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/compass.png",
             "tintColor": "00FF00",
