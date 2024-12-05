@@ -4,6 +4,22 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "指南针官替",
+            "bundleIdentifier": "com.apple.compass",
+            "developerName": "Apple",
+            "version": "1.0",
+            "versionDate": "2024-12-04",
+            "versionDescription": "版本: 1.0\n\n- 指南针官替，此版本有海拔和经纬度",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/com.apple.compass",
+            "localizedDescription": "compass",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/compass.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 376832,
+            "type": 1
+        },
+
+        {
             "name": "QuantumultX",
             "bundleIdentifier": "com.crossutility.quantumult-x",
             "developerName": "QuantumultX",
