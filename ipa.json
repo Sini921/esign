@@ -4,6 +4,22 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "DowngradeApp",
+            "bundleIdentifier": "com.netskao.downgradeapp",
+            "developerName": "Netskao",
+            "version": "1.2-1",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 1.2-1\n- 添加新的数据来源\n\n- 应用升降级(仅支持AppStore中安装的应用)\n- 快速切换AppStore内登陆过的历史账号",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/DowngradeApp_1.2-1.tipa",
+            "localizedDescription": "downgradeapp",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/downgradeapp.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 1310720,
+            "type": 1
+        },
+
+        {
             "name": "图标库",
             "bundleIdentifier": "com.susu.tools",
             "developerName": "苏苏",
@@ -352,22 +368,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 985661,
-            "type": 1
-        },
-
-        {
-            "name": "DowngradeApp",
-            "bundleIdentifier": "com.netskao.downgradeapp",
-            "developerName": "Netskao",
-            "version": "1.1-9",
-            "versionDate": "2024-12-03",
-            "versionDescription": "版本: 1.1-9\n\n- 应用升降级(仅支持AppStore中安装的应用)\n- 快速切换AppStore内登陆过的历史账号",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/DowngradeApp_1.1-9.tipa",
-            "localizedDescription": "downgradeapp",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/downgradeapp.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 545259,
             "type": 1
         },
 
