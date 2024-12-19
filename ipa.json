@@ -4,6 +4,22 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "SanFranSyms",
+            "bundleIdentifier": "com.vadzimzhuk.SanFranSyms",
+            "developerName": "vadzimzhuk",
+            "version": "1.3",
+            "versionDate": "2024-12-19",
+            "versionDescription": "版本: 1.3\n\n- Apple的SF符号\n- 开发者需要这个",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/SanFranSyms_1.3.ipa",
+            "localizedDescription": "SanFranSyms",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/SanFranSyms.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 184320,
+            "type": 1
+        },
+
+        {
             "name": "图标库",
             "bundleIdentifier": "com.susu.tools",
             "developerName": "苏苏",
