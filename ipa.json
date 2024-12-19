@@ -4,6 +4,22 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "图标库",
+            "bundleIdentifier": "com.susu.tools",
+            "developerName": "苏苏",
+            "version": "2.6.2",
+            "versionDate": "2024-12-19",
+            "versionDescription": "版本: 2.6.2\n- 加入图片绘制功能\n\n- 查找应用的图标\n- 修改图片圆角等",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/tools_2.6.2.ipa",
+            "localizedDescription": "tools",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/tools.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 2695168,
+            "type": 1
+        },
+
+        {
             "name": "雅思九级外语学习器",
             "bundleIdentifier": "com.box.vjc",
             "developerName": "box",
@@ -32,22 +48,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 1310720,
-            "type": 1
-        },
-
-        {
-            "name": "图标库",
-            "bundleIdentifier": "com.susu.tools",
-            "developerName": "苏苏",
-            "version": "2.5beta",
-            "versionDate": "2024-12-09",
-            "versionDescription": "版本: 2.5beta\n\n- 查找应用的图标\n- 修改图片圆角等",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/tools_2.5bata.ipa",
-            "localizedDescription": "tools",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/tools.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 2569216,
             "type": 1
         },
 
