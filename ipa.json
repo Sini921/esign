@@ -4,18 +4,18 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
-            "name": "图标库",
-            "bundleIdentifier": "com.susu.tools",
+            "name": "Picta",
+            "bundleIdentifier": "com.susu.picta",
             "developerName": "苏苏",
-            "version": "2.8.2",
-            "versionDate": "2024-12-22",
-            "versionDescription": "版本: 2.8.2\n- URL Schemes: SuSuTools://huizhi\n- 查找应用的图标\n- 修改图片圆角等",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/SuSuTools_2.8.2.ipa",
+            "version": "3.0",
+            "versionDate": "2024-12-24",
+            "versionDescription": "版本: 3.0\n- URL Schemes: SuSuTools://huizhi\n- 查找应用的图标\n- 修改图片圆角等",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Picta_3.0.ipa",
             "localizedDescription": "tools",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/tools.png",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/picta.png",
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
-            "size": 2716672,
+            "size": 2023424,
             "type": 1
         },
 
