@@ -4,6 +4,22 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "雅思九级外语学习器",
+            "bundleIdentifier": "com.box.vjc",
+            "developerName": "box",
+            "version": "1.1.1",
+            "versionDate": "2024-12-28",
+            "versionDescription": "版本: 1.1.1\n\n- 正道的光\n- 照在了大地上",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/V_1.1.1.ipa",
+            "localizedDescription": "vjc",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/vjc.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 17215488,
+            "type": 1
+        },
+
+        {
             "name": "Picta",
             "bundleIdentifier": "com.susu.picta",
             "developerName": "苏苏",
@@ -32,22 +48,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 184320,
-            "type": 1
-        },
-
-        {
-            "name": "雅思九级外语学习器",
-            "bundleIdentifier": "com.box.vjc",
-            "developerName": "box",
-            "version": "1.1.0",
-            "versionDate": "2024-12-16",
-            "versionDescription": "版本: 1.1.0\n\n- 正道的光\n- 照在了大地上",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/V_1.1.0.ipa",
-            "localizedDescription": "vjc",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/vjc.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 17215488,
             "type": 1
         },
 
