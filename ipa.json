@@ -4,6 +4,22 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "Symbols",
+            "bundleIdentifier": "com.mtac.symbols",
+            "developerName": "mtac",
+            "version": "3.0",
+            "versionDate": "2024-12-31",
+            "versionDescription": "版本: 3.0\n\n- Apple的SF符号\n- 开发者需要这个",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Symbols_3.0.ipa",
+            "localizedDescription": "symbols",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/symbols.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 199229,
+            "type": 1
+        },
+
+        {
             "name": "雅思九级外语学习器",
             "bundleIdentifier": "com.box.vjc",
             "developerName": "box",
