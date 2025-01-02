@@ -4,6 +4,70 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "TrollFools",
+            "bundleIdentifier": "wiki.qaq.TrollFools",
+            "developerName": "82flex",
+            "version": "2.8-16",
+            "versionDate": "2025-01-02",
+            "versionDescription": "版本: 2.8-16\n\n- 为AppStore安装的应用注入第三方插件\n- 此为官方原版，仅支持注入dylib\n- 如果想注入deb请安装huami修改版",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.8-16.tipa",
+            "localizedDescription": "trollfools",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 3302400,
+            "type": 1
+        },
+
+        {
+            "name": "Chat Smith",
+            "bundleIdentifier": "co.vulcanlabs.moodtracker",
+            "developerName": "box",
+            "version": "7.7.3",
+            "versionDate": "2025-01-02",
+            "versionDescription": "版本: 7.7.3\n\n- AI智障\n- GPT-4o、GPT-4o-mini\n- 解锁订阅，打开后直接点继续即可",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/ChatSmith_7.7.3.ipa",
+            "localizedDescription": "ChatSmith",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/ChatSmith.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 75134464,
+            "type": 1
+        },
+
+        {
+            "name": "Loon",
+            "bundleIdentifier": "com.ruikq.decar",
+            "developerName": "Loon",
+            "version": "3.2.5TF.802",
+            "versionDate": "2025-01-02",
+            "versionDescription": "版本: 3.2.5TF.802\n\n- 代理工具",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Loon_3.2.5TF.802.ipa",
+            "localizedDescription": "Loon",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/Loon.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 24735232,
+            "type": 1
+        },
+
+        {
+            "name": "Shadowrocket",
+            "bundleIdentifier": "com.liguangming.Shadowrocket",
+            "developerName": "Shadowrocket",
+            "version": "2.2.61",
+            "versionDate": "2025-01-02",
+            "versionDescription": "版本: 2.2.61\n\n- 代理工具",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Shadowrocket_2.2.61.tipa",
+            "localizedDescription": "Shadowrocket",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/Shadowrocket.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 18283520,
+            "type": 1
+        },
+
+        {
             "name": "Symbols",
             "bundleIdentifier": "com.mtac.symbols",
             "developerName": "mtac",
@@ -112,54 +176,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 17065984,
-            "type": 1
-        },
-
-        {
-            "name": "Shadowrocket",
-            "bundleIdentifier": "com.liguangming.Shadowrocket",
-            "developerName": "Shadowrocket",
-            "version": "2.2.57",
-            "versionDate": "2024-12-04",
-            "versionDescription": "版本: 2.2.57\n\n- 代理工具",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Shadowrocket_2.2.57.tipa",
-            "localizedDescription": "Shadowrocket",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/Shadowrocket.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 18579456,
-            "type": 1
-        },
-
-        {
-            "name": "Loon",
-            "bundleIdentifier": "com.ruikq.decar",
-            "developerName": "Loon",
-            "version": "3.2.5TF.791",
-            "versionDate": "2024-12-04",
-            "versionDescription": "版本: 3.2.5TF.791\n\n- 代理工具",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Loon_3.2.5TF.791.ipa",
-            "localizedDescription": "Loon",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/Loon.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 24735232,
-            "type": 1
-        },
-
-        {
-            "name": "ChatSmith",
-            "bundleIdentifier": "co.vulcanlabs.moodtracker",
-            "developerName": "box",
-            "version": "7.7.0",
-            "versionDate": "2024-12-04",
-            "versionDescription": "版本: 7.7.0\n\n- AI智障\n- GPT-4o、GPT-4o-mini\n- 解锁订阅，打开后直接点继续即可",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/ChatSmith_7.7.0.ipa",
-            "localizedDescription": "ChatSmith",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/ChatSmith.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 65349632,
             "type": 1
         },
 
