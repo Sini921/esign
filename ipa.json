@@ -20,6 +20,23 @@
         },
 
         {
+            "name": "TrollStore中文版",
+            "bundleIdentifier": "com.opa334.TrollStore",
+            "developerName": "SINI",
+            "version": "2.1",
+            "versionDate": "2025-01-02",
+            "versionDescription": "版本: 2.1\n\n- 最新TrollStore中文版\n- 下载后分享到TrollStore后等待注销完成即可",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollStore_2.1_zh-CN.tar",
+            "localizedDescription": "TrollStore",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollstore.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size":  2514944,
+            "type": 1
+        },
+
+
+        {
             "name": "TrollFools",
             "bundleIdentifier": "wiki.qaq.TrollFools",
             "developerName": "82flex",
