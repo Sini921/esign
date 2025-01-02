@@ -4,6 +4,22 @@
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
     "apps": [
         {
+            "name": "季伯之家源公告",
+            "bundleIdentifier": "com.sini921.jbrepo",
+            "developerName": "SINI",
+            "version": "1.0",
+            "versionDate": "2025-01-02",
+            "versionDescription": "此包为空包 仅用作声明\n\n季伯之家源: \n- 本源仅用于备份自用ipa\n- 安装源内软件后请于24小时内删除\n- 源内资源均来自互联网网友分享\n- 使用风险需要使用者自行承担\n- 使用本源需要魔法网络",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/jbrepo.tipa",
+            "localizedDescription": "jbrepo",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/jbrepo.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 666666,
+            "type": 1
+        },
+
+        {
             "name": "TrollFools",
             "bundleIdentifier": "wiki.qaq.TrollFools",
             "developerName": "82flex",
