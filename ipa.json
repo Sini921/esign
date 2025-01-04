@@ -40,7 +40,7 @@
             "bundleIdentifier": "cn.gblw.AppsDump",
             "developerName": "gblw",
             "version": "3.1",
-            "versionDate": "2024-12-03",
+            "versionDate": "2025-01-05",
             "versionDescription": "版本: 3.1\n\n- 巨魔砸壳\n- 应用路径跳转\n- 快速切换登录过的AppStore账号\n- 虚拟定位等",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/AppDump_3.1.tipa",
             "localizedDescription": "appdump",
