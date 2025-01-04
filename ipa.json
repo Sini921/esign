@@ -36,6 +36,22 @@
         },
 
         {
+            "name": "AppDump3",
+            "bundleIdentifier": "cn.gblw.AppsDump",
+            "developerName": "gblw",
+            "version": "3.1",
+            "versionDate": "2024-12-03",
+            "versionDescription": "版本: 3.1\n\n- 巨魔砸壳\n- 应用路径跳转\n- 快速切换登录过的AppStore账号\n- 虚拟定位等",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/AppDump_3.1.tipa",
+            "localizedDescription": "appdump",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/appdump3.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 241172,
+            "type": 1
+        },
+
+        {
             "name": "TrollFools",
             "bundleIdentifier": "wiki.qaq.TrollFools",
             "developerName": "82flex",
@@ -416,22 +432,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 817889,
-            "type": 1
-        },
-
-        {
-            "name": "AppDump2",
-            "bundleIdentifier": "cn.gblw.AppsDump",
-            "developerName": "gblw",
-            "version": "2.0.7-1",
-            "versionDate": "2024-12-03",
-            "versionDescription": "版本: 2.0.7-1\n\n- 巨魔砸壳\n- 应用路径跳转\n- 虚拟定位等",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/AppDump2_2.0.7-1.tipa",
-            "localizedDescription": "appdump2",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/appdump2.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 4194304,
             "type": 1
         },
 
