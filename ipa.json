@@ -8,7 +8,7 @@
             "bundleIdentifier": "com.sini921.jbrepo",
             "developerName": "SINI",
             "version": "1.0",
-            "versionDate": "2025-01-10",
+            "versionDate": "2025-01-11",
             "versionDescription": "此包为空包 仅用作声明\n\n季伯之家源: \n- 本源仅用于备份自用ipa\n- 安装源内软件后请于24小时内删除\n- 源内资源均来自互联网网友分享\n- 使用风险需要使用者自行承担\n- 使用本源需要魔法网络",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/jbrepo.tipa",
             "localizedDescription": "jbrepo",
@@ -24,7 +24,7 @@
             "bundleIdentifier": "com.opa334.TrollStore",
             "developerName": "SINI",
             "version": "2.1",
-            "versionDate": "2025-01-10",
+            "versionDate": "2025-01-11",
             "versionDescription": "版本: 2.1\n\n- 最新TrollStore中文版\n- 下载后分享到TrollStore后等待注销完成即可",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollStore_2.1_zh-CN.tar",
             "localizedDescription": "TrollStore",
@@ -32,6 +32,38 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size":  2514944,
+            "type": 1
+        },
+
+        {
+            "name": "TrollFools(huami修改版)",
+            "bundleIdentifier": "com.huami.TrollFools",
+            "developerName": "huami",
+            "version": "2.9-20",
+            "versionDate": "2025-01-11",
+            "versionDescription": "版本: 2.9-20\n\n- trollfools巨魔注入插件huami修改版\n- 此版本可注入deb",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.9-20_huami.tipa",
+            "localizedDescription": "巨魔注入",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools_huami.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 6384844,
+            "type": 1
+        },
+
+        {
+            "name": "TrollFools",
+            "bundleIdentifier": "wiki.qaq.TrollFools",
+            "developerName": "82flex",
+            "version": "2.9-20",
+            "versionDate": "2025-01-11",
+            "versionDescription": "版本: 2.9-20\n\n- 为AppStore安装的应用注入第三方插件\n- 此为官方原版，仅支持注入dylib\n- 如果想注入deb请安装huami修改版",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.9-20.tipa",
+            "localizedDescription": "trollfools",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 3470336,
             "type": 1
         },
 
@@ -52,22 +84,6 @@
         },
 
         {
-            "name": "TrollFools(huami修改版)",
-            "bundleIdentifier": "com.huami.TrollFools",
-            "developerName": "huami",
-            "version": "2.8-17",
-            "versionDate": "2025-01-09",
-            "versionDescription": "版本: 2.8-17\n\n- trollfools巨魔注入插件huami修改版\n- 此版本可注入deb",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.8-17_huami.tipa",
-            "localizedDescription": "巨魔注入",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools_huami.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 5461196,
-            "type": 1
-        },
-
-        {
             "name": "雅思九级外语学习器",
             "bundleIdentifier": "com.box.vjc",
             "developerName": "box",
@@ -80,22 +96,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 17247232,
-            "type": 1
-        },
-
-        {
-            "name": "TrollFools",
-            "bundleIdentifier": "wiki.qaq.TrollFools",
-            "developerName": "82flex",
-            "version": "2.8-16",
-            "versionDate": "2025-01-02",
-            "versionDescription": "版本: 2.8-16\n\n- 为AppStore安装的应用注入第三方插件\n- 此为官方原版，仅支持注入dylib\n- 如果想注入deb请安装huami修改版",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.8-16.tipa",
-            "localizedDescription": "trollfools",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 3302400,
             "type": 1
         },
 
