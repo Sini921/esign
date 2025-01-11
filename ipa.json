@@ -36,6 +36,22 @@
         },
 
         {
+            "name": "雅思九级外语学习器",
+            "bundleIdentifier": "com.box.vjc",
+            "developerName": "box",
+            "version": "1.1.5",
+            "versionDate": "2025-01-11",
+            "versionDescription": "版本: 1.1.5\n\n- 正道的光\n- 照在了大地上",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/V_1.1.5.ipa",
+            "localizedDescription": "vjc",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/vjc.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 17457152,
+            "type": 1
+        },
+
+        {
             "name": "TrollFools(huami修改版)",
             "bundleIdentifier": "com.huami.TrollFools",
             "developerName": "huami",
@@ -80,22 +96,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 734003,
-            "type": 1
-        },
-
-        {
-            "name": "雅思九级外语学习器",
-            "bundleIdentifier": "com.box.vjc",
-            "developerName": "box",
-            "version": "1.1.2",
-            "versionDate": "2025-01-05",
-            "versionDescription": "版本: 1.1.2\n\n- 正道的光\n- 照在了大地上",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/V_1.1.2.ipa",
-            "localizedDescription": "vjc",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/vjc.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 17247232,
             "type": 1
         },
 
