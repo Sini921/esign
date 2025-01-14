@@ -36,6 +36,22 @@
         },
 
         {
+            "name": "TrollFools",
+            "bundleIdentifier": "wiki.qaq.TrollFools",
+            "developerName": "82flex",
+            "version": "2.10-23",
+            "versionDate": "2025-01-14",
+            "versionDescription": "版本: 2.10-23\n\n- 为AppStore安装的应用注入第三方插件\n- 此为官方原版，仅支持注入dylib\n- 如果想注入deb请安装huami修改版",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.10-23.tipa",
+            "localizedDescription": "trollfools",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 3496448,
+            "type": 1
+        },
+
+        {
             "name": "TrollFools(huami修改版)",
             "bundleIdentifier": "com.huami.TrollFools",
             "developerName": "huami",
@@ -48,22 +64,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 6521856,
-            "type": 1
-        },
-
-        {
-            "name": "TrollFools",
-            "bundleIdentifier": "wiki.qaq.TrollFools",
-            "developerName": "82flex",
-            "version": "2.10-22",
-            "versionDate": "2025-01-14",
-            "versionDescription": "版本: 2.10-22\n\n- 为AppStore安装的应用注入第三方插件\n- 此为官方原版，仅支持注入dylib\n- 如果想注入deb请安装huami修改版",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.10-22.tipa",
-            "localizedDescription": "trollfools",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 3483392,
             "type": 1
         },
 
