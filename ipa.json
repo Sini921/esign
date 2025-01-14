@@ -36,6 +36,22 @@
         },
 
         {
+            "name": "TrollFools(huami修改版)",
+            "bundleIdentifier": "com.huami.TrollFools",
+            "developerName": "huami",
+            "version": "2.10-22",
+            "versionDate": "2025-01-14",
+            "versionDescription": "版本: 2.10-22\n\n- trollfools巨魔注入插件huami修改版\n- 此版本可注入deb",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.10-22_huamidev.tipa",
+            "localizedDescription": "巨魔注入",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools_huami.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 6521856,
+            "type": 1
+        },
+
+        {
             "name": "TrollFools",
             "bundleIdentifier": "wiki.qaq.TrollFools",
             "developerName": "82flex",
@@ -48,22 +64,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 3483392,
-            "type": 1
-        },
-
-        {
-            "name": "TrollFools(huami修改版)",
-            "bundleIdentifier": "com.huami.TrollFools",
-            "developerName": "huami",
-            "version": "2.9-21",
-            "versionDate": "2025-01-11",
-            "versionDescription": "版本: 2.9-21\n\n- trollfools巨魔注入插件huami修改版\n- 此版本可注入deb",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.9-21_huami.ipa",
-            "localizedDescription": "巨魔注入",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools_huami.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 6436864,
             "type": 1
         },
 
