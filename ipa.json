@@ -116,13 +116,29 @@
         },
 
         {
-            "name": "计算器官替",
+            "name": "计算器官替(后安装这个)",
             "bundleIdentifier": "com.apple.calculator",
             "developerName": "retr0dev",
             "version": "6.9.1",
             "versionDate": "2025-02-13",
-            "versionDescription": "版本: 6.9.1\n\n- 替换系统自带的计算器\n- 先在AppStore下载这个计算器(搜计算器然后看logo一样的)，使用越狱插件破解内购后卸载，然后下载安装此版本替换系统计算器\n- 优点: 替换掉系统的计算器后可使用控制中心计算器模块打开此计算器",
+            "versionDescription": "版本: 6.9.1\n\n- 替换系统自带的计算器\n- 优点: 替换掉系统的计算器后可使用控制中心计算器模块打开此计算器",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Caculator_6.9.1.ipa",
+            "localizedDescription": "计算器",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/Caculator.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 6847488,
+            "type": 1
+        },
+
+        {
+            "name": "计算器破解(先安装这个)",
+            "bundleIdentifier": "com.apple.calculator",
+            "developerName": "retr0dev",
+            "version": "6.9.1",
+            "versionDate": "2025-02-13",
+            "versionDescription": "版本: 6.9.1\n\n- 先安装这个，安装完打开，三指双击空白处呼出菜单，内购破解开关打开，然后购买vip，弹出苹果商店付款弹窗直接关掉即可(不要付钱)，然后卸载安装官替版",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Caculator_6.0.0.ipa",
             "localizedDescription": "计算器",
             "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/Caculator.png",
             "tintColor": "00FF00",
