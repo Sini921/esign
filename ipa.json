@@ -73,7 +73,7 @@
             "developerName": "82flex",
             "version": "3.3-33",
             "versionDate": "2025-03-10",
-            "versionDescription": "版本: 3.3-33\n\n- 为AppStore安装的应用注入第三方插件\n- 此为官方原版，仅支持注入dylib\n- 如果想注入deb请安装huami修改版",
+            "versionDescription": "版本: 3.3-33\n\n- 为AppStore安装的应用注入第三方插件",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_3.3-33.tipa",
             "localizedDescription": "trollfools",
             "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools.png",
