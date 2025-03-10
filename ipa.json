@@ -36,6 +36,22 @@
         },
 
         {
+            "name": "雅思九级外语学习器",
+            "bundleIdentifier": "com.box.ybox4654564",
+            "developerName": "box",
+            "version": "1.0.2",
+            "versionDate": "2025-03-10",
+            "versionDescription": "版本: 1.0.2\n\n- 正道的光\n- 照在了大地上",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Ybox_1.0.2.ipa",
+            "localizedDescription": "vjc",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/vjc.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 17457152,
+            "type": 1
+        },
+
+        {
             "name": "TrollFools",
             "bundleIdentifier": "wiki.qaq.TrollFools",
             "developerName": "82flex",
@@ -96,22 +112,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 1101824,
-            "type": 1
-        },
-
-        {
-            "name": "雅思九级外语学习器",
-            "bundleIdentifier": "com.box.ybox4654564",
-            "developerName": "box",
-            "version": "1.0.1",
-            "versionDate": "2025-02-26",
-            "versionDescription": "版本: 1.0.1\n\n- 正道的光\n- 照在了大地上",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Ybox_1.0.1.ipa",
-            "localizedDescription": "vjc",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/vjc.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 17457152,
             "type": 1
         },
 
