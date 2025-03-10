@@ -36,6 +36,22 @@
         },
 
         {
+            "name": "AppDump3",
+            "bundleIdentifier": "cn.gblw.AppsDump",
+            "developerName": "gblw",
+            "version": "4.0",
+            "versionDate": "2025-03-10",
+            "versionDescription": "版本: 4.0\n\n- 巨魔砸壳\n- 应用路径跳转\n- 切换AppStore中登录过的账号\n- 虚拟定位等",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/AppsDump3_4.0.tipa",
+            "localizedDescription": "appdump",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/appdump3.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 1101824,
+            "type": 1
+        },
+
+        {
             "name": "雅思九级外语学习器",
             "bundleIdentifier": "com.box.ybox4654564",
             "developerName": "box",
@@ -55,10 +71,10 @@
             "name": "TrollFools",
             "bundleIdentifier": "wiki.qaq.TrollFools",
             "developerName": "82flex",
-            "version": "3.2-32",
+            "version": "3.3-33",
             "versionDate": "2025-03-10",
-            "versionDescription": "版本: 3.2-32\n\n- 为AppStore安装的应用注入第三方插件\n- 此为官方原版，仅支持注入dylib\n- 如果想注入deb请安装huami修改版",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_3.2-32.tipa",
+            "versionDescription": "版本: 3.3-33\n\n- 为AppStore安装的应用注入第三方插件\n- 此为官方原版，仅支持注入dylib\n- 如果想注入deb请安装huami修改版",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_3.3-33.tipa",
             "localizedDescription": "trollfools",
             "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools.png",
             "tintColor": "00FF00",
@@ -96,38 +112,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 2066432,
-            "type": 1
-        },
-
-        {
-            "name": "AppDump3",
-            "bundleIdentifier": "cn.gblw.AppsDump",
-            "developerName": "gblw",
-            "version": "3.7",
-            "versionDate": "2025-03-03",
-            "versionDescription": "版本: 3.7\n\n- 巨魔砸壳\n- 应用路径跳转\n- 切换AppStore中登录过的账号\n- 虚拟定位等",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/AppsDump_3.7.tipa",
-            "localizedDescription": "appdump",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/appdump3.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 1101824,
-            "type": 1
-        },
-
-        {
-            "name": "TrollFools(huami修改版)",
-            "bundleIdentifier": "com.huami.TrollFools",
-            "developerName": "huami",
-            "version": "2.11-28",
-            "versionDate": "2025-02-23",
-            "versionDescription": "版本: 2.11-28\n\n- trollfools巨魔注入插件huami修改版\n- 此版本可注入deb",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.11-28_huamidev.tipa",
-            "localizedDescription": "巨魔注入",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools_huami.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 6532864,
             "type": 1
         },
 
