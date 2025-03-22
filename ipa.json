@@ -164,38 +164,6 @@
         },
 
         {
-            "name": "Loon",
-            "bundleIdentifier": "com.ruikq.decar",
-            "developerName": "Loon",
-            "version": "3.2.5TF.802",
-            "versionDate": "2025-01-02",
-            "versionDescription": "版本: 3.2.5TF.802\n\n- 代理工具",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Loon_3.2.5TF.802.ipa",
-            "localizedDescription": "Loon",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/Loon.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 24735232,
-            "type": 1
-        },
-
-        {
-            "name": "Shadowrocket",
-            "bundleIdentifier": "com.liguangming.Shadowrocket",
-            "developerName": "Shadowrocket",
-            "version": "2.2.61",
-            "versionDate": "2025-01-02",
-            "versionDescription": "版本: 2.2.61\n\n- 代理工具",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Shadowroket_2.2.61.ipa",
-            "localizedDescription": "Shadowrocket",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/Shadowrocket.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 18283520,
-            "type": 1
-        },
-
-        {
             "name": "Symbols",
             "bundleIdentifier": "com.mtac.symbols",
             "developerName": "mtac",
@@ -272,22 +240,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 376832,
-            "type": 1
-        },
-
-        {
-            "name": "QuantumultX",
-            "bundleIdentifier": "com.crossutility.quantumult-x",
-            "developerName": "QuantumultX",
-            "version": "1.5.0-830",
-            "versionDate": "2024-12-04",
-            "versionDescription": "版本: 1.5.0-830\n\n- 代理工具",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/QuantumultX_1.5.0-830.tipa",
-            "localizedDescription": "QuantumultX",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/QuantumultX.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 17065984,
             "type": 1
         },
 
