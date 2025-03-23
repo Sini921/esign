@@ -10,7 +10,7 @@
             "version": "1.0",
             "versionDate": "2025-03-22",
             "versionDescription": "此包为空包 仅用作声明\n\n季伯之家源: \n- 本源仅用于备份自用ipa\n- 安装源内软件后请于24小时内删除\n- 源内资源均来自互联网网友分享\n- 使用风险需要使用者自行承担\n- 使用本源需要魔法网络",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/jbrepo.tipa",
+            "downloadURL": "nsk-sign://web?url=https://sini921.github.io",
             "localizedDescription": "jbrepo",
             "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/jbrepo.png",
             "tintColor": "00FF00",
