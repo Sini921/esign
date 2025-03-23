@@ -2,7 +2,7 @@
     "name": "季伯之家",
     "identifier": "仅备份巨魔权限的ipa，证书用户不要使用本源",
     "sourceURL": "https://github.com/Sini921/esign/raw/refs/heads/main/ipa.json",
-    "sourceicon": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/jbrepo.png",
+    "sourceicon": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/icon.png",
     "apps": [
         {
             "name": "季伯之家源公告",
