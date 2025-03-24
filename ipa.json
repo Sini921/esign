@@ -37,6 +37,22 @@
         },
 
         {
+            "name": "IPCCReplacer",
+            "bundleIdentifier": "com.xiaobovlog.ipcc",
+            "developerName": "xiaobo",
+            "version": "3.0.8",
+            "versionDate": "2025-03-24",
+            "versionDescription": "版本: 3.0.8\n\n- 一键锁定ipcc重启不掉\n- 一键开启独立5g语音\n- 一键隐藏副卡信号\n- 深度清理ipcc等",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/IPCCReplacer_3.0.8.tipa",
+            "localizedDescription": "IPCCReplacer",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/IPCCReplacer.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 1824153,
+            "type": 1
+        },
+
+        {
             "name": "脱壳降级工具",
             "bundleIdentifier": "com.cydia.love.AppStoreTools",
             "developerName": "cydia",
