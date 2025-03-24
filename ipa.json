@@ -181,22 +181,6 @@
         },
 
         {
-            "name": "Chat Smith",
-            "bundleIdentifier": "co.vulcanlabs.moodtracker",
-            "developerName": "box",
-            "version": "7.7.3",
-            "versionDate": "2025-01-02",
-            "versionDescription": "版本: 7.7.3\n\n- AI智障\n- GPT-4o、GPT-4o-mini\n- 解锁订阅，打开后直接点继续即可",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/ChatSmith_7.7.3.ipa",
-            "localizedDescription": "ChatSmith",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/ChatSmith.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 75134464,
-            "type": 1
-        },
-
-        {
             "name": "Symbols",
             "bundleIdentifier": "com.mtac.symbols",
             "developerName": "mtac",
