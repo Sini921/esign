@@ -37,6 +37,38 @@
         },
 
         {
+            "name": "AppRhyme",
+            "bundleIdentifier": "canxin.app.rhyme",
+            "developerName": "canxin",
+            "version": "2.0.1",
+            "versionDate": "2025-04-07",
+            "versionDescription": "版本: 2.0.1\n\n- 免费的听歌软件\n- 自行下载音源导入",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/AppRhyme_2.0.1.ipa",
+            "localizedDescription": "rhyme",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/rhyme.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 16901120,
+            "type": 1
+        },
+
+        {
+            "name": "AppRhyme音源",
+            "bundleIdentifier": "canxin.app.rhyme",
+            "developerName": "canxin",
+            "version": "2.0",
+            "versionDate": "2025-04-07",
+            "versionDescription": "版本: 2.0\n\n- AppRhyme的音源",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/AppRhyme_2.0.evc",
+            "localizedDescription": "rhyme",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/rhyme.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 10485,
+            "type": 1
+        },
+
+        {
             "name": "雅思九级外语学习器",
             "bundleIdentifier": "com.box.ybox4654564",
             "developerName": "box",
