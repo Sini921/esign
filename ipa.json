@@ -9,7 +9,7 @@
             "bundleIdentifier": "com.sini921.jbrepo",
             "developerName": "SINI",
             "version": "1.0",
-            "versionDate": "2025-04-07",
+            "versionDate": "2025-04-20",
             "versionDescription": "此包为空包 仅用作声明\n\n季伯之家源: \n- 本源仅用于备份自用ipa\n- 安装源内软件后请于24小时内删除\n- 源内资源均来自互联网网友分享\n- 使用风险需要使用者自行承担\n- 使用本源需要魔法网络\n- 点击下载按钮访问季伯之家官网",
             "downloadURL": "nsk-sign://web?url=https://sini921.github.io",
             "localizedDescription": "jbrepo",
@@ -25,7 +25,7 @@
             "bundleIdentifier": "com.opa334.TrollStore",
             "developerName": "daodao",
             "version": "2.1",
-            "versionDate": "2025-04-07",
+            "versionDate": "2025-04-20",
             "versionDescription": "版本: 2.1\n\n- 最新TrollStore中文版\n- 下载后分享到TrollStore后等待注销完成即可",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollStore_2.1_zh-CN.tar",
             "localizedDescription": "TrollStore",
@@ -33,6 +33,22 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size":  2514944,
+            "type": 1
+        },
+
+        {
+            "name": "雅思九级外语学习器",
+            "bundleIdentifier": "com.box.ybox4654564",
+            "developerName": "box",
+            "version": "1.0.5",
+            "versionDate": "2025-04-20",
+            "versionDescription": "版本: 1.0.5\n\n- 正道的光\n- 照在了大地上",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Ybox_1.0.5.ipa",
+            "localizedDescription": "vjc",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/vjc.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 17457152,
             "type": 1
         },
 
@@ -65,22 +81,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 10485,
-            "type": 1
-        },
-
-        {
-            "name": "雅思九级外语学习器",
-            "bundleIdentifier": "com.box.ybox4654564",
-            "developerName": "box",
-            "version": "1.0.4",
-            "versionDate": "2025-04-07",
-            "versionDescription": "版本: 1.0.4\n\n- 正道的光\n- 照在了大地上",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Ybox_1.0.4.ipa",
-            "localizedDescription": "vjc",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/vjc.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 17457152,
             "type": 1
         },
 
