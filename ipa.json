@@ -89,7 +89,7 @@
             "bundleIdentifier": "cn.gblw.AppsDump",
             "developerName": "gblw",
             "version": "4.0.9",
-            "versionDate": "2025-05-50",
+            "versionDate": "2025-05-20",
             "versionDescription": "版本: 4.0.9\n\n- 巨魔砸壳\n- 应用路径跳转\n- 切换AppStore中登录过的账号\n- 虚拟定位等",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/AppsDump3_4.0.9.tipa",
             "localizedDescription": "appdump",
