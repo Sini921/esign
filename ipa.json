@@ -9,7 +9,7 @@
             "bundleIdentifier": "com.sini921.jbrepo",
             "developerName": "SINI",
             "version": "1.0",
-            "versionDate": "2025-04-20",
+            "versionDate": "2025-05-20",
             "versionDescription": "此包为空包 仅用作声明\n\n季伯之家源: \n- 本源仅用于备份自用ipa\n- 安装源内软件后请于24小时内删除\n- 源内资源均来自互联网网友分享\n- 使用风险需要使用者自行承担\n- 使用本源需要魔法网络\n- 点击下载按钮访问季伯之家官网",
             "downloadURL": "nsk-sign://web?url=https://sini921.github.io",
             "localizedDescription": "jbrepo",
@@ -25,7 +25,7 @@
             "bundleIdentifier": "com.opa334.TrollStore",
             "developerName": "daodao",
             "version": "2.1",
-            "versionDate": "2025-04-20",
+            "versionDate": "2025-05-20",
             "versionDescription": "版本: 2.1\n\n- 最新TrollStore中文版\n- 下载后分享到TrollStore后等待注销完成即可",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollStore_2.1_zh-CN.tar",
             "localizedDescription": "TrollStore",
@@ -33,6 +33,86 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size":  2514944,
+            "type": 1
+        },
+
+        {
+            "name": "巨魔真后台",
+            "bundleIdentifier": "cn.bswbw.RealBackstage",
+            "developerName": "bswbw",
+            "version": "1.5",
+            "versionDate": "2025-05-20",
+            "versionDescription": "版本: 1.5\n\n- 使应用保持在前台达到真后台的效果",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/RealBackstage_1.5.tipa",
+            "localizedDescription": "RealBackstage",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/RealBackstage.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 3496448,
+            "type": 1
+        },
+
+        {
+            "name": "TrollFools",
+            "bundleIdentifier": "wiki.qaq.TrollFools",
+            "developerName": "82flex",
+            "version": "2.8-16",
+            "versionDate": "2025-05-20",
+            "versionDescription": "版本: 2.8-16\n\n- iOS15-iOS16专用\n- 为AppStore安装的应用注入第三方插件",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_2.8-16.tipa",
+            "localizedDescription": "trollfools",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 3496448,
+            "type": 1
+        },
+
+        {
+            "name": "TrollFools14",
+            "bundleIdentifier": "wiki.qaq.TrollFools",
+            "developerName": "82flex",
+            "version": "2.8-16",
+            "versionDate": "2025-05-20",
+            "versionDescription": "版本: 2.8-16\n\n- iOS14专用\n- 为AppStore安装的应用注入第三方插件",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools14_2.8-16.tipa",
+            "localizedDescription": "trollfools",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 3496448,
+            "type": 1
+        },
+
+        {
+            "name": "AppDump3",
+            "bundleIdentifier": "cn.gblw.AppsDump",
+            "developerName": "gblw",
+            "version": "4.0.9",
+            "versionDate": "2025-05-50",
+            "versionDescription": "版本: 4.0.9\n\n- 巨魔砸壳\n- 应用路径跳转\n- 切换AppStore中登录过的账号\n- 虚拟定位等",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/AppsDump3_4.0.9.tipa",
+            "localizedDescription": "appdump",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/appdump3.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 1101824,
+            "type": 1
+        },
+
+        {
+            "name": "电池数据",
+            "bundleIdentifier": "com.developlab.BatteryInfo",
+            "developerName": "developlad",
+            "version": "1.2",
+            "versionDate": "2025-05-20",
+            "versionDescription": "版本: 1.2\n\n- 查看电池数据",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/BatteryInfo_1.2.tipa",
+            "localizedDescription": "bettery",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/BatteryInfo.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 146800,
             "type": 1
         },
 
@@ -65,54 +145,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 3136051,
-            "type": 1
-        },
-
-        {
-            "name": "TrollFools",
-            "bundleIdentifier": "wiki.qaq.TrollFools",
-            "developerName": "82flex",
-            "version": "3.5-37",
-            "versionDate": "2025-03-14",
-            "versionDescription": "版本: 3.5-37\n\n- 为AppStore安装的应用注入第三方插件",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollFools_3.5-37.tipa",
-            "localizedDescription": "trollfools",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/trollfools.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 3496448,
-            "type": 1
-        },
-
-        {
-            "name": "AppDump3",
-            "bundleIdentifier": "cn.gblw.AppsDump",
-            "developerName": "gblw",
-            "version": "4.0.3",
-            "versionDate": "2025-03-12",
-            "versionDescription": "版本: 4.0.3\n\n- 巨魔砸壳\n- 应用路径跳转\n- 切换AppStore中登录过的账号\n- 虚拟定位等",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/AppsDump3_4.0.3.tipa",
-            "localizedDescription": "appdump",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/appdump3.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 1101824,
-            "type": 1
-        },
-
-        {
-            "name": "电池数据",
-            "bundleIdentifier": "com.developlab.BatteryInfo",
-            "developerName": "developlad",
-            "version": "1.1.8",
-            "versionDate": "2025-03-06",
-            "versionDescription": "版本: 1.1.8\n\n- 查看电池数据",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/BatteryInfo_1.1.8.tipa",
-            "localizedDescription": "bettery",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/BatteryInfo.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 146800,
             "type": 1
         },
 
