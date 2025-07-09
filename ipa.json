@@ -104,7 +104,7 @@
             "name": "电池数据",
             "bundleIdentifier": "com.developlab.BatteryInfo",
             "developerName": "developlad",
-            "version": "1.2",
+            "version": "1.2.2",
             "versionDate": "2025-05-20",
             "versionDescription": "版本: 1.2\n\n- 查看电池数据",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/BatteryInfo_1.2.tipa",
