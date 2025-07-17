@@ -9,7 +9,7 @@
             "bundleIdentifier": "com.sini921.jbrepo",
             "developerName": "SINI",
             "version": "1.0",
-            "versionDate": "2025-05-20",
+            "versionDate": "2025-07-17",
             "versionDescription": "此包为空包 仅用作声明\n\n季伯之家源: \n- 本源仅用于备份自用ipa\n- 安装源内软件后请于24小时内删除\n- 源内资源均来自互联网网友分享\n- 使用风险需要使用者自行承担\n- 使用本源需要魔法网络\n- 点击下载按钮访问季伯之家官网",
             "downloadURL": "nsk-sign://web?url=https://sini921.github.io",
             "localizedDescription": "jbrepo",
@@ -25,7 +25,7 @@
             "bundleIdentifier": "com.opa334.TrollStore",
             "developerName": "daodao",
             "version": "2.1",
-            "versionDate": "2025-05-20",
+            "versionDate": "2025-07-17",
             "versionDescription": "版本: 2.1\n\n- 最新TrollStore中文版\n- 下载后分享到TrollStore后等待注销完成即可",
             "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/TrollStore_2.1_zh-CN.tar",
             "localizedDescription": "TrollStore",
@@ -33,6 +33,22 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size":  2514944,
+            "type": 1
+        },
+
+        {
+            "name": "Copylog",
+            "bundleIdentifier": "me.tomt000.ts.copylog",
+            "developerName": "Tomt000",
+            "version": "1.7",
+            "versionDate": "2025-07-17",
+            "versionDescription": "版本: 1.7\n\n- Copylog剪贴板巨魔版\n- 已免费",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/￼CopyLog_1.7.tipa",
+            "localizedDescription": "copylog",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/copylog.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 9605376,
             "type": 1
         },
 
@@ -257,38 +273,6 @@
             "tintColor": "00FF00",
             "isLanZouCloud": 0,
             "size": 376832,
-            "type": 1
-        },
-
-        {
-            "name": "Copylog破解器",
-            "bundleIdentifier": "com.retr0dev.cracker",
-            "developerName": "retr0dev",
-            "version": "1.0",
-            "versionDate": "2024-12-03",
-            "versionDescription": "版本: 1.0\n\n- Copylog剪贴板巨魔版的破解器",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/CLCracker_1.0.tipa",
-            "localizedDescription": "copylog",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/copylog.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 57548,
-            "type": 1
-        },
-
-        {
-            "name": "Copylog",
-            "bundleIdentifier": "me.tomt000.ts.copylog",
-            "developerName": "Tomt000",
-            "version": "1.6",
-            "versionDate": "2024-12-03",
-            "versionDescription": "版本: 1.6\n\n- Copylog剪贴板巨魔版\n- 仅支持原生键盘上滑呼出\n- 先安装这个不要打开，然后安装破解器，破解后在打开\n- 如果在越狱环境中使用，需要给此应用屏蔽越狱",
-            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/Copylog_1.6.tipa",
-            "localizedDescription": "copylog",
-            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/copylog.png",
-            "tintColor": "00FF00",
-            "isLanZouCloud": 0,
-            "size": 9605376,
             "type": 1
         },
 
