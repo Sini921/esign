@@ -37,6 +37,22 @@
         },
 
         {
+            "name": "CopyLog",
+            "bundleIdentifier": "me.tomt000.ts.copylog",
+            "developerName": "Tomt000",
+            "version": "1.7",
+            "versionDate": "2025-07-17",
+            "versionDescription": "版本: 1.7\n\n- 巨魔剪贴板\n- 已免费\n- 刀刀汉化",
+            "downloadURL": "https://github.com/Sini921/esign/releases/download/0.0.1/CopyLogTS-1.7_CN.tipa",
+            "localizedDescription": "copylog",
+            "iconURL": "https://raw.githubusercontent.com/Sini921/esign/refs/heads/main/icon/copylog.png",
+            "tintColor": "00FF00",
+            "isLanZouCloud": 0,
+            "size": 6998016,
+            "type": 1
+        },
+
+        {
             "name": "巨魔真后台",
             "bundleIdentifier": "cn.bswbw.RealBackstage",
             "developerName": "bswbw",
